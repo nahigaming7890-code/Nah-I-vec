@@ -66,10 +66,10 @@ def keep_alive():
 # --- End Flask Keep Alive ---
 
 # --- Configuration ---
-TOKEN = os.environ.get('BOT_TOKEN', '8667323435:AAFG2GxQWpHRpk6qII_oAytasQpEZJdalnM')
+TOKEN = os.environ.get('BOT_TOKEN', '8667323435:AAGdtf6kvZ2WQPwy8pUWsNTJgnoL1PQtB_E')
 OWNER_ID = int(os.environ.get('OWNER_ID', '8216845222'))
 ADMIN_ID = int(os.environ.get('ADMIN_ID', '8216845222'))
-YOUR_USERNAME = os.environ.get('YOUR_USERNAME', '@imran789000')
+YOUR_USERNAME = os.environ.get('YOUR_USERNAME', '@Nahideveloper2')
 UPDATES_CHANNEL = os.environ.get('UPDATES_CHANNEL', '@Nahibeveloper')
 
 # Folder setup
