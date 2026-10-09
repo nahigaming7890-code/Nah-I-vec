@@ -1,1 +1,1 @@
-web: python "Bot Hoster.py"
+web: python main.py
